@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\pages",
+    "\\client\\src\\pages\\home",
+    "\\client\\src\\pages\\login",
+    "\\client\\src\\pages\\message",
+    "\\client\\src\\pages\\messages",
+    "\\client\\src\\pages\\myGigs",
+    "\\Routes"
+  ],
+  "PreviewInSolutionExplorer": false
+}
